@@ -1,0 +1,12 @@
+
+mishler-fall2023-probuilder/Library/
+
+mishler-fall2023-probuilder/Logs/
+
+*.sln
+
+mishler-fall2023-probuilder/ProjectSettings/
+
+mishler-fall2023-probuilder/UserSettings/
+
+mishler-fall2023-probuilder/.vsconfig
